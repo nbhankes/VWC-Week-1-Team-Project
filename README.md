@@ -35,11 +35,12 @@ Assignments:
 12) Flex box
 
 **Brian**:
+11) CSS Layout
 1) Basic HTML Elements
 2) Metadata HTML Elements
 3) Content Grouping HTML Elements
 4) Text Level Semantic HTML Elements
-11) CSS Layout
+
 
 **Nate**:
 8) Global HTML Attributes and some CSS
