@@ -23,12 +23,12 @@ This repo is the Team #1, Week 1 Stretch Website Goal
 
 The website will be structured like this, from top to bottom:
 
-*Header
-*Introduction text to Group #1
-*Pictures of team members
-*Description text of #vetswho code misison
-*Video of #vetswho code
-*Footer
+..*Header
+..*Introduction text to Group #1
+..*Pictures of team members
+..*Description text of #vetswho code misison
+..*Video of #vetswho code
+..*Footer
 
 Team Assignments:
 
