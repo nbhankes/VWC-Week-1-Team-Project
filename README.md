@@ -57,14 +57,7 @@ Courtney will add our profile pictures to the website using a flexbox container 
 
 
 **Brian**:
-11) CSS Layout
-1) Basic HTML Elements
-
-2) Metadata HTML Elements
-
-3) Content Grouping HTML Elements
-
-4) Text Level Semantic HTML Elements
+11) CSS Layout 1) Basic HTML Elements 2) Metadata HTML Elements 3) Content Grouping HTML Elements 4) Text Level Semantic HTML Elements
 
 
 Brian will be building the website header and footer, to include the title, this will fulfill items #1, #2, #3, #4, and #11. Brian, build for mobile first.
