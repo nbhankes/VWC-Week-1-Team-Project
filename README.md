@@ -23,12 +23,19 @@ This repo is the Team #1, Week 1 Stretch Website Goal
 
 The website will be structured like this, from top to bottom:
 
-..*Header
-..*Introduction text to Group #1
-..*Pictures of team members
-..*Description text of #vetswho code misison
-..*Video of #vetswho code
-..*Footer
+Header
+
+Introduction text to Group #1
+
+Pictures of team members
+
+Description text of #vetswho code misison
+
+Video of #vetswho code
+
+Footer
+
+
 
 Team Assignments:
 
@@ -52,9 +59,13 @@ Courtney will add our profile pictures to the website using a flexbox container 
 **Brian**:
 11) CSS Layout
 1) Basic HTML Elements
+
 2) Metadata HTML Elements
+
 3) Content Grouping HTML Elements
+
 4) Text Level Semantic HTML Elements
+
 
 Brian will be building the website header and footer, to include the title, this will fulfill items #1, #2, #3, #4, and #11. Brian, build for mobile first.
 
