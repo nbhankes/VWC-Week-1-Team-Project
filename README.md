@@ -23,17 +23,17 @@ This repo is the Team #1, Week 1 Stretch Website Goal
 
 The website will be structured like this, from top to bottom:
 
-Header
+> Header
 
-Introduction text to Group #1
+> Introduction text to Group #1
 
-Pictures of team members
+> Pictures of team members
 
-Description text of #vetswho code misison
+> Description text of #vetswho code misison
 
-Video of #vetswho code
+> Video of #vetswho code
 
-Footer
+> Footer
 
 
 
@@ -69,6 +69,8 @@ Brian will be building the website header and footer, to include the title, this
 14) Deployed to Surge / Codepen
 Team introduction text.
 
+
+
 Nate will write the text and put all the pieces together and get the website online.
 
 
@@ -76,10 +78,17 @@ Nate will write the text and put all the pieces together and get the website onl
 ##Our coloring style guidelines are as follows (taken from Facebook):
 
 Athens Gray: #ececf1
+
 San Marino (Facebook Blue): #4168b3
+
 Downriver (Black/Dark Gray): #0a1e42
+
 Bombay Gray: #aeaeb0
+
 Pickled Bluewood (Deep Blue): #38455d
+
 White: #ffffff
+
+
 
 Just so we have a shared vision on the look: **When in doubt, model forms and boxes to mimic the look of Facebook.**
