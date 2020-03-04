@@ -1,1 +1,9 @@
-
+.banner {
+    width: 100%;
+    height: 200px;
+    display: table;
+    text-align: center;
+    background: #4168b3;
+    color: white;
+    font-size: 300%;
+}
