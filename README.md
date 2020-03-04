@@ -49,15 +49,6 @@ Team Assignments:
 Michael will build a form using CSS grid and text styling, fulfilling items #5, 10, and 13. Get creative here. Nothing comes to my mind. Reach out to teammates if you have trouble coming up with a form idea.
 
 
-**Courtney**:
-6) Content embedding HTML elements
-7) Images/Multimedia embedding elements
-12) Flex box
-Description text of #vetswho code misison
-
-Courtney will add our profile pictures to the website using a flexbox container so that it is responsive. She will also embed a #vetswhocode video from youtube, fulfilling items #6, #7, and #12.
-
-
 **Brian**:
 11) CSS Layout 1) Basic HTML Elements 2) Metadata HTML Elements 3) Content Grouping HTML Elements 4) Text Level Semantic HTML Elements
 
@@ -66,6 +57,10 @@ Brian will be building the website header and footer, to include the title, this
 
 
 **Nate**:
+6) Content embedding HTML elements
+7) Images/Multimedia embedding elements
+12) Flex box
+Description text of #vetswho code misison
 8) Global HTML Attributes and some CSS
 9) Box Model
 14) Deployed to Surge / Codepen
