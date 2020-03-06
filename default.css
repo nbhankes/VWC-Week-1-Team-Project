@@ -128,7 +128,10 @@ iframe {
  background-image: radial-gradient( circle farthest-corner at 10% 20%, rgba(65,104,179,1) 0%, #bbb 90% ); 
  */
 
-/* Form Section */
+/* Cool fonts */
+/* font-family: 'Hind Siliguri', sans-serif; */
+
+/* Form 1 Section */
 
 #form {
   min-height: 60vh;
@@ -138,13 +141,15 @@ iframe {
   justify-content: center;
   align-items: center;
   outline: none;
+
+  letter-spacing: 0.1em;
 }
 
 .form-title {
   text-align: center;
   color: white;
   margin: 0 0 40px 0;
-  font-size: 40px;
+  font-size: 5em;
   text-transform: uppercase;
 }
 
@@ -152,8 +157,10 @@ iframe {
   border: none;
   background: transparent;
   border-bottom: 3px solid white;
+  color: white;
   font-size: 30px;
   margin: 10px 20px;
+  outline: none;
 }
 
 #email::placeholder {
@@ -168,9 +175,10 @@ iframe {
   padding: 10px 30px;
   font-size: 25px;
   text-transform: uppercase;
+  letter-spacing: 0.1em;
   color: white;
   margin: 10px 20px;
-  transition: color 2s ease, background 2s ease, border 2s ease;
+  transition: color 1s ease, background 1s ease, border 1s ease;
 }
 
 #submit:hover {
@@ -186,6 +194,7 @@ iframe {
   color: white;
   background: #4168b3;
   border-color: white;
+  transition: color 0.5s ease, background 0.5s ease, border 0.5s ease;
 }
 
 #form {
@@ -193,4 +202,7 @@ iframe {
   flex-wrap: wrap;
 }
 
-/* End Form Section */
+/* Form 2 Section */
+/*  */
+
+/* End Form 1 Section */
