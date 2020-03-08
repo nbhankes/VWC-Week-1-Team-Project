@@ -72,7 +72,7 @@ html {
 .containerChild {
   margin: 1em 1em;
   border: solid black .1em;
-  width: 35em;
+  width: 33em;
   min-width:28em;
   height: 45em;
   background-color: white;
@@ -149,22 +149,20 @@ iframe {
 /* Form Section */
 
 #form {
-  min-height: 60vh;
+  min-height: 64vh;
   background: #4168b3;
-  /* Effect to make background slanted */
   clip-path: polygon(0 15%, 100% 0, 100% 85%, 0 100%);
-  display: grid;
+  display: flex;
   justify-content: center;
   align-items: center;
   outline: none;
-  letter-spacing: 0.1em;
 }
 
 .form-title {
   text-align: center;
   color: white;
-  margin: 0 0 0.3em 0;
-  font-size: 6em;
+  margin: 0 0 40px 0;
+  font-size: 40px;
   text-transform: uppercase;
 }
 
@@ -172,29 +170,25 @@ iframe {
   border: none;
   background: transparent;
   border-bottom: 3px solid white;
-  color: white;
-  font-size: 30px;
-  margin: 0.62em 1.25em;
-  outline: none;
+  font-size: 2.5em;
+  margin: 10px 20px;
 }
 
 #email::placeholder {
   color: white;
   text-transform: capitalize;
-  margin: 0.62em 1.25em;
 }
 
 #submit {
   display: inline-block;
   background: transparent;
   border: 3px solid white;
-  padding: 0.62em 1.8em;
+  padding: 10px 30px;
   font-size: 25px;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
   color: white;
-  margin: 0.62em 1.25em;
-  transition: color 0.5s ease, background 0.5s ease, border 0.5s ease;
+  margin: 10px 20px;
+  transition: color 2s ease, background 2s ease, border 2s ease;
 }
 
 #submit:hover {
@@ -210,7 +204,11 @@ iframe {
   color: white;
   background: #4168b3;
   border-color: white;
-  transition: color 0.2s ease, background 0.2s ease, border 0.2s ease;
+}
+
+#form {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 /* End Form Section */
